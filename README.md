@@ -51,8 +51,13 @@
 
 ---
 
-## ♟️ Play Chess with Me!
+---
 
-[![Play Chess](https://img.shields.io/badge/Click%20to%20Play%20Chess-0fdb6b?style=for-the-badge&logo=chess&logoColor=white)](https://n4nd4-r.github.io/chess)
+## 🚀 Featured Projects
 
-> Enjoy a simple online chess game built with HTML, CSS, and JavaScript.
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| 🔍 Image Classifier | CNN-based web app to classify animals from uploaded images | Python, TensorFlow, Flask | [Live Demo](https://n4nd4-r.github.io/cnn-hewan-app) |
+| 📊 Sales Forecasting | Time series prediction using SVM and ANN models | Python, Pandas, Sklearn | [Coming Soon]() |
+| 🌐 Personal Website | My responsive modern portfolio website with dark theme | HTML, CSS, JS | [View Site](https://n4nd4-r.github.io/) |
+
