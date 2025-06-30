@@ -55,9 +55,9 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| 🔍 Image Classifier | CNN-based web app to classify animals from uploaded images | Python, TensorFlow, Flask | [Live Demo](https://n4nd4-r.github.io/cnn-hewan-app) |
-| 📊 Sales Forecasting | Time series prediction using SVM and ANN models | Python, Pandas, Sklearn | [Coming Soon]() |
-| 🌐 Personal Website | My responsive modern portfolio website with dark theme | HTML, CSS, JS | [View Site](https://n4nd4-r.github.io/) |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔍 Image Classifier | CNN-based web app to classify animals from uploaded images | Python, TensorFlow, Flask |
+| 📊 Sales Forecasting | Time series prediction using SVM and ANN models | Python, Pandas, Sklearn | 
+| 🌐 Personal Website | My responsive modern portfolio website with dark theme | HTML, CSS, JS | 
 
