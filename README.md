@@ -53,11 +53,14 @@
 
 ---
 
-## 🚀 Featured Projects
+---
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔍 Image Classifier | CNN-based web app to classify animals from uploaded images | Python, TensorFlow, Flask |
-| 📊 Sales Forecasting | Time series prediction using SVM and ANN models | Python, Pandas, Sklearn | 
-| 🌐 Personal Website | My responsive modern portfolio website with dark theme | HTML, CSS, JS | 
+## ⏳ Loading My Mind...
+
+[████████░░░░░░] 66% — Thinking of new project ideas  
+[█████████████░] 95% — Learning AI optimization  
+[██████████████] 100% — Passion for Data & Web
+
+> System ready: type `git clone mybrain` to collaborate 😎
+
 
