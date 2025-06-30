@@ -55,6 +55,24 @@
 
 ---
 
+---
+
+## 🧑‍💻 Terminal Says:
+
+```bash
+$ whoami
+nanda_rizki_pratama
+
+$ skills --list
+[Python, Flask, HTML, CSS, JavaScript, PHP, Laravel, TensorFlow, Scikit-Learn]
+
+$ mission --current
+"Use data science to create smarter decisions and meaningful impact."
+
+$ status --now
+"🚀 Building cool things & exploring tech frontiers..."
+
+
 ## ⏳ Loading My Mind...
 
 [████████░░░░░░] 66% — Thinking of new project ideas  
